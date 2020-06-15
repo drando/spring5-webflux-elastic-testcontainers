@@ -1,4 +1,4 @@
-# Spring Webflux Elasticsearch integration test using Junit 5 and Testcontainers
+# Spring Webflux Elasticsearch integration tests using Junit 5 and Testcontainers
 
 Recently I introduced myself to the Reactive programming world using Spring Webflux, with a project that uses the outstanding Elasticsearch engine for storing data.
 
